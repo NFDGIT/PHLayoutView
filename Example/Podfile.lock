@@ -1,0 +1,23 @@
+PODS:
+  - PHLayoutView (0.1.0):
+    - SnapKit
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - PHLayoutView (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  PHLayoutView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PHLayoutView: 85a9f97c982f2eebbbaec76683477b06a027aea4
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: 3de122f77f861cd9cd83b4acc64a115bca2702d0
+
+COCOAPODS: 1.9.3

@@ -1,0 +1,6 @@
+framework module PHLayoutView {
+  umbrella header "PHLayoutView-umbrella.h"
+
+  export *
+  module * { export * }
+}
